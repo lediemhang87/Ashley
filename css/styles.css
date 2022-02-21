@@ -58,7 +58,7 @@ body
 
 .About{
   position: absolute;
-  right: 230px;
+  right: 200px;
   top: 0;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -75,25 +75,7 @@ body
 
 }
 
-.Blog
-{
-  position: absolute;
-  right: 170px;
-  top: 0;
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  border-radius: 0px;
-  font-family: 'Barlow Condensed', sans-serif;
-  color: #f6d887;
-  font-weight: bold;
-  font-size: 25px;
-  background: #290001;
-  padding: 3px 10px 10px 10px;
-  text-decoration: none;
-  margin-top: 10px;
-  display: inline-block;
 
-}
 
 .Contact{
   position: absolute;
@@ -179,7 +161,7 @@ hr{
 
 /* MIDDLE DIVISION */
 #middle{
-  height:1150px;
+  height:1300px;
   padding: 50px;
   background-color: #87431d;
   line-height: 10px;
